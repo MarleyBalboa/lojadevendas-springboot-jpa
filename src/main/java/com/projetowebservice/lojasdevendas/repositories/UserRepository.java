@@ -1,3 +1,4 @@
+// CORRETO:
 package com.projetowebservice.lojasdevendas.repositories;
 
 import org.springframework.data.jpa.repository.JpaRepository;
